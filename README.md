@@ -8,8 +8,17 @@ This is a small Python project that visualizes a colorful plasma effect using **
 
 ## How to Run
 
-1. Make sure you have Python installed (>=3.8 recommended).  
+1. Make sure you have Python installed (>=3.8 recommended).
 2. Install required packages:
 
 ```bash
 pip install numpy opencv-python
+```
+
+
+# Awesome speed gauge chart
+
+![Speed Gauge Chart](Gauge chart.png)
+``` bash
+pip install plotly
+```
