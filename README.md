@@ -18,7 +18,8 @@ pip install numpy opencv-python
 
 # Awesome speed gauge chart
 
-![Speed Gauge Chart](Gauge chart.png)
+## Demo
+![Speed Gauge](Gauge_chart.png)
 ``` bash
 pip install plotly
 ```
